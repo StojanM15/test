@@ -30,6 +30,8 @@ public class Domasna {
             System.out.println("Hello");
             ;// comment
 
+            System.out.println("55");
+
             int a=5;
 
             System.out.println("Git Hub");
